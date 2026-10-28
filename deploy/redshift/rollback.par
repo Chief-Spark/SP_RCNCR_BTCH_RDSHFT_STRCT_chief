@@ -1,0 +1,4 @@
+03_rollback_ddl_exp_control.sql
+02_rollback_ddl_exp_solicitud.sql
+01_rollback_ddl_exp_config.sql
+00_prerequisitos_schemas_exp.sql
